@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Demo Site</title>
+</head>
+<body>
+
+  <!-- Header -->
+  <h1>My Demo Site</h1>
+
+  <!-- Navigation Links -->
+  <ul>
+    <li><a href="https://www.iit.edu">IIT Home</a></li>
+    <li><a href="https://www.google.com">Google</a></li>
+    <li><a href="https://www.microsoft.com">Microsoft</a></li>
+    <li><a href="https://www.cnn.com">CNN</a></li>
+    <li><a href="https://admissions.iit.edu">IIT Admissions</a></li>
+  </ul>
+
+  <!-- Section Heading -->
+  <h2>This is our h2 Tag</h2>
+
+  <!-- Paragraphs -->
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, perferendis, sed ab sequi molestias eum sint consectetur dicta praesentium ipsa repellat soluta placeat dolor! Accusantium impedit est explicabo harum aperiam!</p>
+
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, perferendis, sed ab sequi molestias eum sint consectetur dicta praesentium ipsa repellat soluta placeat dolor! Accusantium impedit est explicabo harum aperiam!</p>
+
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, perferendis, sed ab sequi molestias eum sint consectetur dicta praesentium ipsa repellat soluta placeat dolor! Accusantium impedit est explicabo harum aperiam!</p>
+
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, perferendis, sed ab sequi molestias eum sint consectetur dicta praesentium ipsa repellat soluta placeat dolor! Accusantium impedit est explicabo harum aperiam!</p>
+
+  <!-- List Example -->
+  <ul>
+    <li>List 1</li>
+    <li>List 2</li>
+    <li>List 3</li>
+    <li>List 4</li>
+  </ul>
+
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, perferendis, sed ab sequi molestias eum sint consectetur dicta praesentium ipsa repellat soluta placeat dolor! Accusantium impedit est explicabo harum aperiam!</p>
+
+  <!-- Another List -->
+  <ul>
+    <li>List 1</li>
+    <li>List 2</li>
+    <li>List 3</li>
+    <li>List 4</li>
+  </ul>
+
+  <!-- Embedded Video -->
+  <iframe width="420" height="250" src="https://www.youtube.com/embed/NnjRHXQkXGA" frameborder="0" allowfullscreen></iframe>
+
+  <!-- Articles Section -->
+  <h3>Interesting Articles</h3>
+  <ol>
+    <li>
+      <a href="#">Article 1</a><br>
+      Preview of very interesting article article
+    </li>
+    <li>
+      <a href="#">Article 2</a><br>
+      Preview of very interesting article article
+    </li>
+    <li>
+      <a href="#">Article 3</a><br>
+      Preview of very interesting article article
+    </li>
+    <li>
+      <a href="#">Article 4</a><br>
+      Preview of very interesting article article
+    </li>
+  </ol>
+
+  <!-- Footer -->
+  <footer>
+    <p>Footer Content is here</p>
+  </footer>
+
+</body>
+</html>
